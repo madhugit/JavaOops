@@ -13,5 +13,7 @@ public class ExFinal {
 //	public final void method1(){
 		// myVal = 4; 
 		System.out.println("myVal = " + myVal);
+		
+		// a test for git
 	}
 }
